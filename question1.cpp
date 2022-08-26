@@ -1,4 +1,6 @@
-//
+// yash gautam --2010991346
+// set 2
+// find mean median mode of student grades
 #include <bits/stdc++.h>
 using namespace std;
 
